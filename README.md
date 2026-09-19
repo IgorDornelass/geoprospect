@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/geoprospect-logo.png" alt="GeoProspect" width="140" />
+  <img src="./public/favicon.svg" alt="GeoProspect" width="96" />
 
   # GeoProspect
 
